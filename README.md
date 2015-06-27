@@ -1,0 +1,2 @@
+# debian-live
+Debian Live
